@@ -25,7 +25,7 @@
         "source": "http://github.com/dynamikaweb/yii2-template"
     },
     "require": {
-        "php": ">=7.4.0",
+        "php": ">=7.0",
         "yiisoft/yii2": "*"
     },
     "minimum-stability": "dev",
