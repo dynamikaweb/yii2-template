@@ -2,11 +2,7 @@
     "name": "dynamikaweb/yii2-template",
     "description": "",
     "type": "yii2-extension",
-    "keywords": [
-        "dynamika",
-        "yii",
-        "yii2"
-    ],
+    "keywords": ["dynamika", "yii2"],
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -28,8 +24,6 @@
         "php": ">=7.0",
         "yiisoft/yii2": "*"
     },
-    "minimum-stability": "dev",
-    "prefer-stable": false,
     "autoload": {
         "psr-4": {
             "dynamikaweb\\": "src"
