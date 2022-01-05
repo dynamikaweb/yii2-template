@@ -9,14 +9,14 @@
             "name": "Rodrigo Dornelles",
             "email": "rodrigo@dynamika.com.br",
             "role": "Developer"
-        },
+        }
     ],
     "support": {
         "issues": "http://github.com/dynamikaweb/yii2-template/issues",
         "source": "http://github.com/dynamikaweb/yii2-template"
     },
     "require": {
-        "php": "^7.0 || ^ 8.0",
+        "php": "^7.0 | ^8.0",
         "yiisoft/yii2": "*"
     },
     "autoload": {
