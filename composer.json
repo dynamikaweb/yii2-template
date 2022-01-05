@@ -10,24 +10,18 @@
             "email": "rodrigo@dynamika.com.br",
             "role": "Developer"
         },
-        {
-            "name": "Robson Soares",
-            "email": "robson@dynamika.com.br",
-            "role": "Developer"
-        }
     ],
     "support": {
         "issues": "http://github.com/dynamikaweb/yii2-template/issues",
         "source": "http://github.com/dynamikaweb/yii2-template"
     },
-    "minimum-stability": "dev",
     "require": {
-        "php": ">=7.0",
+        "php": "^7.0 || ^ 8.0",
         "yiisoft/yii2": "*"
     },
     "autoload": {
         "psr-4": {
-            "dynamikaweb\\": "src"
+            "dynamikaweb\\template\\": "src"
         }
     },
     "repositories": [
